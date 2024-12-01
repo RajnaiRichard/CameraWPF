@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CameraWPF", "CameraWPF\CameraWPF.csproj", "{28BE1394-6211-4FA5-BAE7-177DBD7BC640}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28BE1394-6211-4FA5-BAE7-177DBD7BC640}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28BE1394-6211-4FA5-BAE7-177DBD7BC640}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28BE1394-6211-4FA5-BAE7-177DBD7BC640}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28BE1394-6211-4FA5-BAE7-177DBD7BC640}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DF3E3F7-3535-496E-BF33-13637C951BAA}
+	EndGlobalSection
+EndGlobal
